@@ -5,9 +5,10 @@
     "60": "/img/icon-60.png",
     "128": "/img/icon-128.png"
   },
+  "launch_path": "/",
   "developer": {
     "name": "Yelp",
-    "url": "​http://moz-manifest.herokuapp.com"
+    "url": "​http://yelp.com"
   },
   "default_locale": "en"
 }
