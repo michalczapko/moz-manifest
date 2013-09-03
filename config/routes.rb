@@ -1,11 +1,11 @@
 Manifest::Application.routes.draw do
-  get "manifest/index"
+  get "manifest/valid"
   get "manifest/original"
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  root 'manifest#index'
+  root 'manifest#valid'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
