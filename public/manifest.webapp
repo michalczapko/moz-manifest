@@ -1,0 +1,12 @@
+{
+  "name": "Yelp",
+  "description": "Looking for a burrito joint open now? An Irish pub nearby? A gas station you can drive to before your tank hits empty? Yelp for Firefox OS is here to help. Use us to search for places to eat, shop, drink, relax and play then read reviews from an active community of locals in the know.\n\nFEATURES: ★ Search for businesses near you ★ Tap quick links to find nearby bars, restaurants, cafes and more ★ Narrow your searches by 'hood, distance, price, and what's open now ★ Browse reviews to read what's great (and not so great) in your city ★ Find great Deals offered by your favorite local businesses ★ Add Quick Tips, photos, and draft reviews for your favorite businesses ★ Check-in and share on Facebook and Twitter ★ Make reservations on OpenTable without leaving the Yelp app ★ Look up addresses and phone numbers for thousands of businesses, then call or map them from your phone ★ Yelp does augmented reality with Monocle. Overlay business information onto the world around you.",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Yelp",
+    "url": "​http://yelp.com"
+  },
+  "default_locale": "en"
+}
